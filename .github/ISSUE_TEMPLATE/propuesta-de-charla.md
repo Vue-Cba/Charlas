@@ -9,7 +9,10 @@ assignees: joelalejandro, selenel21, jnfrati
 
 # Propuesta de charla
 
-¡Qué bueno que quieras sumarte a dar una charla en Vue Córdoba! Te sugerimos que [leas nuestros lineamientos](/SomosCodear/VueCordoba/tree/master/README.md) antes de empezar.
+¡Qué bueno que quieras sumarte a dar una charla en Vue Córdoba! Vamos a solicitarte la siguiente información.
+
+- [ ] He leído los lineamientos de propuestas de charla presentados en el README de este repositorio.
+- [ ] He leído y acepto el Código de Conducta de Vue Córdoba, disponible también en el README de este repositorio.
 
 **¿Tenés un título para tu charla?**
 > No te preocupes si no es definitivo, siempre podrás cambiarlo.
@@ -25,6 +28,11 @@ assignees: joelalejandro, selenel21, jnfrati
 
 - [ ] Sí
 - [ ] No
+
+**¿Qué duración aproximada tendría tu charla?
+
+- [ ] 15 minutos
+- [ ] 30 minutos
 
 **¿Para cuando creés que podrías presentar la charla?**
 > Indicanos mes y año.
