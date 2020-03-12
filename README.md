@@ -19,6 +19,6 @@ De forma mensual.
 
 ### Código de conducta
 
-Vue Córdoba se rige por el [Código de Conducta de la Comunidad de Desarrolladores de Argentina](https://codear.org/coc). Ante cualquier incidente o consulta, podés comunicarte a [cc@codear.org](mailto:cc@codear.org).
+Vue Córdoba se rige por el [Código de Conducta de la Comunidad de Desarrolladores de Argentina](CODE_OF_CONDUCT.md). Ante cualquier incidente o consulta, podés comunicarte a [cc@codear.org](mailto:cc@codear.org).
 
 Tu participación en nuestros encuentros, ya sea con tu presencia o con la postulación de charlas, implica la aceptación del mencionado Código de Conducta.
