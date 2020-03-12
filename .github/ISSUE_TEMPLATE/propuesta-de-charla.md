@@ -29,7 +29,7 @@ assignees: joelalejandro, selenel21, jnfrati
 - [ ] Sí
 - [ ] No
 
-**¿Qué duración aproximada tendría tu charla?
+**¿Qué duración aproximada tendría tu charla?**
 
 - [ ] 15 minutos
 - [ ] 30 minutos
